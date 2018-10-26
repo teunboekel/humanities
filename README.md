@@ -1,0 +1,2 @@
+# humanities
+GitHub Pages
